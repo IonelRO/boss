@@ -1,2 +1,5 @@
 # boss
-Udacity projects
+Udacity projects hub
+Font end development nanodegree program
+Projects:
+1.Animal card
